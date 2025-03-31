@@ -6,12 +6,12 @@
   <Name>com.diebold.dieboldbalancerfrontend</Name>
   <DisplayName>UB30 Diebold UI</DisplayName>
   <Description>This installer installs the UB30 Diebold UI</Description>
-  <Version>1.0.0</Version>
+  <Version>0.0.2</Version>
   <ReleaseDate>2025-03-11</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="27916993" OS="Any" UncompressedSize="103478411"/>
-  <DownloadableArchives>data.7z,DatabaseScripts.7z,generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,sqldrivers.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <UpdateFile CompressedSize="29077117" OS="Any" UncompressedSize="106493049"/>
+  <DownloadableArchives>data.7z,DatabaseScripts.7z,fonts.7z,generic.7z,iconengines.7z,Icons.7z,imageformats.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,sqldrivers.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="license.txt" name="License agreement"/>
    <License file="LGPL_v3.txt" name="LGPL Version 3"/>
@@ -19,8 +19,8 @@
    <License file="Used libraries.txt" name="Used Libraries"/>
    <License file="Copyright.txt" name="Copyright"/>
   </Licenses>
-  <SHA1>23958324918537ef09a5776d39925f87a6912f51</SHA1>
+  <SHA1>0f5baf0955f534fbb8fb0080069236241c86987d</SHA1>
  </PackageUpdate>
- <SHA1>fa95f147a387544bbf2a8347344d1c3f7ce230d8</SHA1>
- <MetadataName>2025-03-27-1425_meta.7z</MetadataName>
+ <SHA1>c6066ab33a476498234e63538af01bedc825909f</SHA1>
+ <MetadataName>2025-03-31-1729_meta.7z</MetadataName>
 </Updates>
